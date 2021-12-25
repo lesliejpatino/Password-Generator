@@ -29,3 +29,14 @@ function generatePassword() {
   if (length < 8 || length > 128 || isNaN(length)) {
     return "How did you mess this up already?"
   }
+  var confirmUpper=confirm("Would you like to include uppercase characters?")
+  if (confirmUpper==true) {
+    base=base+uppercase 
+    console.log(base)
+  }
+  var confirmLower=confirm("Would you like to include lowercase characters?")
+  if (confirmLower==true) {
+    base=base+lowercase
+    console.log(base)
+  }
+
