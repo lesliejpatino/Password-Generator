@@ -53,3 +53,18 @@ function generatePassword() {
   if (confirmUpper == false && confirmLower == false && confirmNumeric == false && confirmSpecial == false) {
   return "I can't make lemonade without any lemons. Try again..."
 }
+  // forloop and loop through all characters in base
+  // starting out with selecting the first character in base
+  // console.log(base[0]);
+
+  // default: math.random 0-1
+  // we want only integers from 0 - base.length-1
+  // this will select a random character within the base
+  // base[Math.floor(Math.random()*base.length)];
+  // console.log (base[Math.floor(Math.random()*base.length)]);
+
+  // the number of loops will depend on the variable length
+  // and pick one randomly with each iteration of the loop
+  // if all are false one needs to be picked
+  var pass="";
+  for (var i=0; i < length; i++)
