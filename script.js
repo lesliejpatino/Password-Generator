@@ -22,4 +22,10 @@ function generatePassword() {
   var numeric="0123456789"
   var special="!@#$%^&*()-_=+,./;'?"
   console.log(special.length); //20
-  var base="" //starting point 
+  var base="" //starting point
+
+
+  var length=prompt("Choose a password length between 8-128 characters");
+  if (length < 8 || length > 128 || isNaN(length)) {
+    return "How did you mess this up already?"
+  }
