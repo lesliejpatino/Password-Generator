@@ -39,4 +39,13 @@ function generatePassword() {
     base=base+lowercase
     console.log(base)
   }
-
+  var confirmNumeric=confirm("Would you like to include a numeric character?")
+  if (confirmNumeric==true) {
+    base=base+numeric
+    console.log(base)
+  }
+  var confirmSpecial=confirm("Would you like to include any special characters?")
+  if (confirmSpecial==true) {
+    base=base+special
+    console.log(base)
+  }
