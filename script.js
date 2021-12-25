@@ -12,3 +12,14 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+
+// variables to hold all the characters
+// Everything thats going to happen when the generate password button is called"
+function generatePassword() {
+  var lowercase="abcdefghijklmnopqrstuvwxyz"
+  var uppercase=lowercase.toUpperCase()
+  var numeric="0123456789"
+  var special="!@#$%^&*()-_=+,./;'?"
+  console.log(special.length); //20
+  var base="" //starting point 

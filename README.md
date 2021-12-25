@@ -5,9 +5,9 @@ The generator will display 2 types of error messages if the user either does not
 
 
 ## Deployed Site
-* [Password Generator] (https://lesliejpatino.github.io/password-generator/)
+* ![Password Generator Site] (https://lesliejpatino.github.io/password-generator/)
 
-* ![Deployed Site] (./develop/images/passwordgenerated.png)
+* ![Deployed Site Image] (./develop/images/passwordgenerated.png)
 * ![Working Site] (https://media.giphy.com/media/V7lK8wzDkflDlU6CjS/giphy.gif)
 * ![Error Message 1] (https://media.giphy.com/media/bacSrLPxGhWm7KT58j/giphy.gif)
 * ![Error Message 2] (https://media.giphy.com/media/IDcQdeTD98PslvBsWT/giphy.gif)
