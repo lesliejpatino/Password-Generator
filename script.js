@@ -49,3 +49,5 @@ function generatePassword() {
     base=base+special
     console.log(base)
   }
+
+  if (confirmUpper == false && confirmLower == false && confirmNumeric == false && confirmSpecial == false)
