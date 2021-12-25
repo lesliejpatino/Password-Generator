@@ -50,4 +50,6 @@ function generatePassword() {
     console.log(base)
   }
 
-  if (confirmUpper == false && confirmLower == false && confirmNumeric == false && confirmSpecial == false)
+  if (confirmUpper == false && confirmLower == false && confirmNumeric == false && confirmSpecial == false) {
+  return "I can't make lemonade without any lemons. Try again..."
+}
