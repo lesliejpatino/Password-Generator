@@ -67,4 +67,9 @@ function generatePassword() {
   // and pick one randomly with each iteration of the loop
   // if all are false one needs to be picked
   var pass="";
-  for (var i=0; i < length; i++)
+  for (var i=0; i < length; i++) {
+    pass=pass+base[Math.floor(Math.random()*base.length)];
+    console.log(pass);
+  }
+  return pass;
+}
