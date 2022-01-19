@@ -7,21 +7,21 @@ The generator will display 2 types of error messages if the user either does not
 ## Deployed Site
 * [Password Generator Site](https://lesliejpatino.github.io/password-generator/)
 
-* ![Deployed Site Image](https://github.com/lesliejpatino/password-generator/blob/main/Develop/images/passwordgenerated.png)
-* ![Working Site](https://media.giphy.com/media/V7lK8wzDkflDlU6CjS/giphy.gif)
-* ![Error Message 1](https://media.giphy.com/media/bacSrLPxGhWm7KT58j/giphy.gif)
-* ![Error Message 2](https://media.giphy.com/media/IDcQdeTD98PslvBsWT/giphy.gif)
+![Deployed Site Image](https://github.com/lesliejpatino/password-generator/blob/main/Develop/images/passwordgenerated.png)
+![Working Site](https://media.giphy.com/media/V7lK8wzDkflDlU6CjS/giphy.gif)
+![Error Message 1](https://media.giphy.com/media/bacSrLPxGhWm7KT58j/giphy.gif)
+![Error Message 2](https://media.giphy.com/media/IDcQdeTD98PslvBsWT/giphy.gif)
 
 
 ## Built With
 
-* [HTML] 
-* [CSS]
-* [Javascript] 
-* [GeeksforGeeks] (https://www.geeksforgeeks.org/how-to-select-a-random-element-from-array-in-javascript/)
+* HTML 
+* CSS
+* Javascript 
+* [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-select-a-random-element-from-array-in-javascript/)
 
 
 ### AUTHORS
 * **Leslie Patino**
-* [My GitHub] (https://github.com/lesliejpatino)
-* [My LinkedIn] (https://www.linkedin.com/in/lesliejpatino/)
+* [My GitHub](https://github.com/lesliejpatino)
+* [My LinkedIn](https://www.linkedin.com/in/lesliejpatino/)
