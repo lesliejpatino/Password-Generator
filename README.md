@@ -27,3 +27,10 @@ The generator will display 2 types of error messages if the user either does not
 * **Leslie Patino**
 * [My GitHub](https://github.com/lesliejpatino)
 * [My LinkedIn](https://www.linkedin.com/in/lesliejpatino/)
+
+
+## License
+
+Standard MIT License
+
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
